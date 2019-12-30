@@ -60,6 +60,7 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectId" id="1UNKjPggu7zTFyGqfZDuuBXpW9w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -292,12 +293,24 @@
       <workItem from="1576727693108" duration="204000" />
       <workItem from="1576891571669" duration="1024000" />
       <workItem from="1576894346911" duration="171000" />
-      <workItem from="1577697157617" duration="1477000" />
+      <workItem from="1577697157617" duration="1772000" />
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1577698926678</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577698926678</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="181" key="#Assign_Data_Sources" timestamp="1576656363908">
@@ -344,6 +357,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="666" y="410" width="943" height="346" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575218162443" />
+    <state x="993" y="223" key="CommitChangelistDialog2" timestamp="1577698924452">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="993" y="223" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577698924452" />
     <state x="902" y="346" key="FileChooserDialogImpl" timestamp="1577698751467">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
