@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ccda1592-6713-4bdb-8933-177cc9d2196d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Timber/JAVA/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\Timber\JAVA\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="11" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="1.8" />
+    <option name="skipTests" value="true" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1UNKjPggu7zTFyGqfZDuuBXpW9w" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mongo" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.14597815" />
+    <property name="project.structure.side.proportion" value="0.29594272" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\IDEAProject\UltimateEDU\service-manage-course\src\test\java" />
+      <recent name="D:\Java\IDEAProject\UltimateEDU\service-manage-course\src\main\resources" />
+      <recent name="D:\Java\IDEAProject\UltimateEDU\service-manage-course\src\main\java" />
+      <recent name="D:\Java\IDEAProject\UltimateEDU\cms-client\src\main\resources" />
+      <recent name="D:\Java\IDEAProject\UltimateEDU\test-rabbitmq-consumer\src\test\java\com\xuecheng\test\rabbitmq" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xuecheng.manageCms.config" />
+      <recent name="com.xuecheng.manageCmsClient.config" />
+      <recent name="com.xuecheng.test.rabbitmq" />
+      <recent name="cn.student.manageCms.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\IDEAProject\UltimateEDU\cms\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ManageCourseApplication">
+    <configuration name="TestDao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service-manage-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.manage_course.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuecheng.manage_course.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.manage_course.dao.TestDao" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDao.testCourseBaseRepository" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service-manage-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.manage_course.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuecheng.manage_course.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.manage_course.dao.TestDao" />
+      <option name="METHOD_NAME" value="testCourseBaseRepository" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDao.testCourseMapper" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service-manage-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.manage_course.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuecheng.manage_course.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.manage_course.dao.TestDao" />
+      <option name="METHOD_NAME" value="testCourseMapper" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDao.testTeachPlan" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service-manage-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.manage_course.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuecheng.manage_course.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.manage_course.dao.TestDao" />
+      <option name="METHOD_NAME" value="testTeachPlan" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FreemarkerTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-freemarker" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.testfreemarker.FreemarkerTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageCmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-manage-cms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manageCms.ManageCmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageCmsClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-manage-cms-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manageCmsClient.ManageCmsClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageCourseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="service-manage-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.manage_course.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_course.ManageCourseApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageCourseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-manage-course" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_course.ManageCourseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestDao.testCourseBaseRepository" />
+      <item itemvalue="JUnit.TestDao.testTeachPlan" />
+      <item itemvalue="JUnit.TestDao.testCourseMapper" />
+      <item itemvalue="JUnit.TestDao" />
+      <item itemvalue="Spring Boot.FreemarkerTestApplication" />
+      <item itemvalue="Spring Boot.ManageCourseApplication" />
+      <item itemvalue="Spring Boot.ManageCmsApplication" />
+      <item itemvalue="Spring Boot.ManageCmsClientApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ManageCourseApplication" />
+        <item itemvalue="JUnit.TestDao.testTeachPlan" />
+        <item itemvalue="JUnit.TestDao.testCourseBaseRepository" />
+        <item itemvalue="JUnit.TestDao" />
+        <item itemvalue="JUnit.TestDao.testCourseMapper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccda1592-6713-4bdb-8933-177cc9d2196d" name="Default Changelist" comment="" />
+      <created>1575191747456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575191747456</updated>
+      <workItem from="1575191750005" duration="10036000" />
+      <workItem from="1575205006918" duration="2567000" />
+      <workItem from="1575207597813" duration="10508000" />
+      <workItem from="1575219242689" duration="505000" />
+      <workItem from="1575219890512" duration="190000" />
+      <workItem from="1575248884266" duration="2268000" />
+      <workItem from="1575257223942" duration="3023000" />
+      <workItem from="1575296306507" duration="699000" />
+      <workItem from="1575335023638" duration="5856000" />
+      <workItem from="1575381777047" duration="65000" />
+      <workItem from="1575427603861" duration="9763000" />
+      <workItem from="1575508064232" duration="18998000" />
+      <workItem from="1575552884531" duration="670000" />
+      <workItem from="1575594144338" duration="18601000" />
+      <workItem from="1575684179781" duration="1157000" />
+      <workItem from="1575688848509" duration="1217000" />
+      <workItem from="1575690233546" duration="381000" />
+      <workItem from="1575858077091" duration="12414000" />
+      <workItem from="1575883902539" duration="1039000" />
+      <workItem from="1575886693672" duration="4469000" />
+      <workItem from="1575893609860" duration="2088000" />
+      <workItem from="1575895827980" duration="3540000" />
+      <workItem from="1575899449800" duration="994000" />
+      <workItem from="1575900485953" duration="5785000" />
+      <workItem from="1575944495448" duration="16347000" />
+      <workItem from="1575981278244" duration="11478000" />
+      <workItem from="1576025784529" duration="6742000" />
+      <workItem from="1576048226240" duration="1840000" />
+      <workItem from="1576119712106" duration="7112000" />
+      <workItem from="1576202907249" duration="2196000" />
+      <workItem from="1576217000922" duration="603000" />
+      <workItem from="1576397553704" duration="412000" />
+      <workItem from="1576468133092" duration="1858000" />
+      <workItem from="1576508291887" duration="19000" />
+      <workItem from="1576547378459" duration="1572000" />
+      <workItem from="1576556236022" duration="15617000" />
+      <workItem from="1576589654996" duration="1014000" />
+      <workItem from="1576649481506" duration="5490000" />
+      <workItem from="1576671420648" duration="696000" />
+      <workItem from="1576672136970" duration="326000" />
+      <workItem from="1576672480660" duration="9110000" />
+      <workItem from="1576691672138" duration="562000" />
+      <workItem from="1576727693108" duration="204000" />
+      <workItem from="1576891571669" duration="1024000" />
+      <workItem from="1576894346911" duration="171000" />
+      <workItem from="1577697157617" duration="1477000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="181" key="#Assign_Data_Sources" timestamp="1576656363908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Assign_Data_Sources/0.0.1920.1040@0.0.1920.1040" timestamp="1576656363908" />
+    <state x="552" y="178" key="#Notifications" timestamp="1575617166276">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1575617166276" />
+    <state x="552" y="181" key="#Project_Structure" timestamp="1576654179591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1576654179591" />
+    <state x="543" y="184" key="#TestDao.testCourseBaseRepository" timestamp="1576655763381">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="543" y="184" key="#TestDao.testCourseBaseRepository/0.0.1920.1040@0.0.1920.1040" timestamp="1576655763381" />
+    <state x="414" y="174" width="1165" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576656247993">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" width="1165" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576656247993" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1576690845078">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576690845078" />
+    <state x="811" y="412" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576671845144">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="811" y="412" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576671845144" />
+    <state x="592" y="449" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1575958339475">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="592" y="449" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575958339475" />
+    <state x="747" y="388" width="443" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1575890990300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="747" y="388" width="443" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1575890990300" />
+    <state x="160" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1575974900177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="160" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575974900177" />
+    <state x="666" y="410" width="943" height="346" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog" timestamp="1575218162443">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="410" width="943" height="346" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575218162443" />
+    <state x="902" y="346" key="FileChooserDialogImpl" timestamp="1577698751467">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="902" y="346" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577698751467" />
+    <state width="1500" height="284" key="GridCell.Tab.0.bottom" timestamp="1576692234343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1500" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576692234343" />
+    <state width="1500" height="284" key="GridCell.Tab.0.center" timestamp="1576692234343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1500" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576692234343" />
+    <state width="1500" height="284" key="GridCell.Tab.0.left" timestamp="1576692234343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1500" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576692234343" />
+    <state width="1500" height="284" key="GridCell.Tab.0.right" timestamp="1576692234343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1500" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576692234343" />
+    <state width="1500" height="284" key="GridCell.Tab.1.bottom" timestamp="1576692234343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1500" height="284" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576692234343" />
+    <state width="1500" height="284" key="GridCell.Tab.1.center" timestamp="1576692234343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1500" height="284" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576692234343" />
+    <state width="1500" height="284" key="GridCell.Tab.1.left" timestamp="1576692234343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1500" height="284" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576692234343" />
+    <state width="1500" height="284" key="GridCell.Tab.1.right" timestamp="1576692234343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1500" height="284" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576692234343" />
+    <state width="1877" height="412" key="GridCell.Tab.2.bottom" timestamp="1576691656265">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="412" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576691656265" />
+    <state width="1877" height="412" key="GridCell.Tab.2.center" timestamp="1576691656264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="412" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576691656264" />
+    <state width="1877" height="412" key="GridCell.Tab.2.left" timestamp="1576691656263">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="412" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576691656263" />
+    <state width="1877" height="412" key="GridCell.Tab.2.right" timestamp="1576691656265">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="412" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576691656265" />
+    <state x="885" y="288" key="Maven.ArtifactSearchDialog" timestamp="1575194735273">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="885" y="288" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575194735273" />
+    <state x="738" y="332" key="NewModule_or_Project.wizard" timestamp="1576655350326">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="738" y="332" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1576655350326" />
+    <state x="907" y="43" width="998" height="997" key="SettingsEditor" timestamp="1577698739105">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="907" y="43" width="998" height="997" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577698739105" />
+    <state width="498" height="456" key="SwitcherDM" timestamp="1576687014783">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="456" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1576687014783" />
+    <state x="636" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1576894347276">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="354" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576894347276" />
+    <state x="667" y="362" width="626" height="399" key="find.popup" timestamp="1576564964017">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="362" width="626" height="399" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576564964017" />
+    <state x="585" y="294" width="1235" height="620" key="new project wizard" timestamp="1576894511160">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="294" width="1235" height="620" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1576894511160" />
+    <state x="275" y="0" width="1643" height="1038" key="recent.locations.popup" timestamp="1575970284572">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="275" y="0" width="1643" height="1038" key="recent.locations.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1575970284572" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1576656115073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576656115073" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1576034069079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576034069079" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/UltimateEDU$CmsPageRepositoryTest_testFindByExample.ic" NAME="CmsPageRepositoryTest.testFindByExample Coverage Results" MODIFIED="1575898320387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.student.manageCms.dao.*</FILTER>
+    </SUITE>
+  </component>
+</project>
